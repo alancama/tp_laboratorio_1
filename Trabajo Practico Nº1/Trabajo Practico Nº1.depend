@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1536362736 source:c:\users\alana\desktop\trabajo practico nº1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536362428 source:c:\users\alana\desktop\trabajo practico nº1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<stdio.h>
+
+1536362517 c:\users\alana\desktop\trabajo practico nº1\funciones.h
+
